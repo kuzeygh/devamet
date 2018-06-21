@@ -1,0 +1,52 @@
+Midori Kocak
+Bilgisayar Mühendisi
+
+Parizska 5
+Prag 1
+Çek Cumhuriyeti
+
+midori (at) mynameismidori.com
+
+Kendimi bir dünya vatandaşı olarak görüyorum. Bilgisayar Mühendisiyim, php ve cakephp uzmanıyım. JQuery'yi de pek severim. Çevirmeli bağlantıyla internete bağlandığımız günlerden beri php ve web uygulamaları geliştirmekyeim. 15 yıldan fazla bir süredir kod yazsam da her zaman yeni şeyler öğrenmeye ve öğretmeye istekliyim ve bunu an büyük avantajım olarak görüyorum. Ayrıca hobi olarak tasarım ile ilgileniyorum. Gitar ve bateri çalmayı ve genel olarak müziğin kendisini seviyorum, 7 yaşından beri korolarda şarkı söylüyordum. Bilime ve fırsat eşitliğine inanan bir kadın olarak tüm kadınlara ve LGBT bireylere ücretsiz yardım ediyorum. Ayrıca ZCPE Sertifikasına da sahibim. http://www.zend.com/en/yellow-pages/ZEND024677 PHP'nin kendisine de yaptığım küçük bir katkı var, o da şurada: https://wiki.php.net/rfc/null_coalesce_equal_operator 
+
+mynameismidori.com
+
+twitter.com/midorikocak
+instagram.com/midorikocak
+github.com/midorikocak
+linkedin.com/in/midorikocak
+
+McKinsey & Company
+mckinsey.com
+Senior Yazılım Mühendisi
+Mart 2018
+
+Midori Kocak
+mynameismidori.com
+Serbest Yazılımcı
+Eylül 2016 - Şubat 2018
+Laravel ve Vue.js kullanarak web uygulamalarının geliştirilmesi. Worpress ve WooCommerce için Banka ödeme modülü yazımı.
+
+Massive Interactive
+Frontend Engineer
+massive.co
+Eylül 2015 - Eylül 2016
+React kullanılarak yazılım bileşenleriin geliştirilmesi ve bakımı. Cordova uygulaması için Java ve objective-C ile native eklentilerin yazılması.
+
+Sabancı Üniversitesi 
+Bilgisayar Bilimleri ve Mühendisliği
+2006 - 2010
+
+Özel İtalyan Lisesi ve Ortaokulu
+1996 - 2003
+
+Projelerle PHP7
+Seçkin Yayıncılık
+
+PHP MySQL HTML5 CSS3 JQuery React/Vue.js Java/Objective-C
+
+Anadil Türkçe
+Akıcı İngilizce
+Akıcı İtalyanca
+Orta Çekçe
+Başlangıç Japonca

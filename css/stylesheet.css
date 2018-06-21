@@ -1,0 +1,170 @@
+@media only screen {
+  /* ==========================================================================
+  Grid CSS
+  ========================================================================== */
+  body {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: minmax(100px, auto);
+    grid-gap: 1rem;
+  }
+
+  header {
+    grid-column: span 4;
+  }
+
+  main {
+    grid-column: span 8;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  /* ==========================================================================
+  Optional stylings
+  ========================================================================== */
+  body {
+    background-color: #f5f8f9;
+  }
+
+  body > * {
+    background-color: white;
+    box-shadow: 0 1px #FFFFFF inset, 0 1px 3px rgba(34, 25, 25, 0.4);
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+  }
+
+  .info {
+    text-align: left;
+    margin-top: 1rem;
+    color: #b0b2b5;
+  }
+
+  .title h1 {
+    margin: 0;
+  }
+
+  .title {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  header img.profile-picture {
+    border-radius: 50%;
+  }
+
+  h2:first-child {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  ul.social {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+  }
+
+  ul.social li a {
+    display: block;
+  }
+
+  header img {
+    margin: 1rem;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  /* ==========================================================================
+  Web Design in 4 minutes
+  ========================================================================== */
+  body {
+    margin: 0 auto;
+    max-width: 75em;
+  }
+
+  body {
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+
+  body {
+    line-height: 1.5;
+    padding: 4em 1em;
+  }
+
+  h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+  }
+
+  body {
+    color: #555;
+  }
+
+  h1,
+  h2,
+  strong {
+    color: #333;
+  }
+
+  code,
+  pre {
+    background: #eee;
+  }
+
+  code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+  }
+
+  pre {
+    padding: 1em;
+  }
+
+  a {
+    color: #e81c4f;
+  }
+
+  body {
+    color: #566b78;
+  }
+
+  code,
+  pre {
+    background: #f5f7f9;
+    border-bottom: 1px solid #d8dee9;
+    color: #a7adba;
+  }
+
+  pre {
+    border-left: 2px solid #69c;
+  }
+
+  @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+  body {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  }
+
+}
+/* ==========================================================================
+Responsive styles
+========================================================================== */
+
+@media only screen and (max-width: 960px) {
+  header {
+    grid-column: span 12;
+  }
+
+  main {
+    grid-column: span 12;
+  }
+
+}

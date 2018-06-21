@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@page {
+  size: A4 portrait;
+  margin: 1.5cm;
+}
+
+body {
+  display: block;
+  font-size: 8.5pt;
+  line-height: 1;
+  font-family: 'Open Sans', sans-serif;
+  color: #333333;
+  background-color: white;
+}
+
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+  color: #e81c4f;
+}
+
+h1 {
+    font-size: 9.5pt;
+}
+
+h2 {
+    font-size: 10.5pt;
+}
+
+.social {
+  display: none;
+}
+
+img, .fa-li {
+  display: none;
+}
+
+.fa-ul {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  text-align: left;
+}
+
+ul {
+  list-style-type:none;
+  padding: 0;
+}
+
+
+/*
+
+.work ul li, .education ul li {
+  margin-bottom: .5rem;
+}
+
+.work ul, .education ul {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: minmax(100px, auto);
+}
+
+.work ul li, .education ul li{
+  grid-column: span 6;
+}
+
+article {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: minmax(100px, auto);
+}
+
+.summary {
+  grid-column: span 12;
+}
+
+.work {
+  grid-column: span 12;
+}
+
+.education {
+  grid-column: span 12;
+}
+
+.skills {
+  grid-column: span 6;
+}
+
+.languages {
+  grid-column: span 6;
+}
+
+/*
+.work ul, .skills ul, .education ul, .languages ul {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.work li, .skills li, .education li, .languages li {
+  max-width: 25%;
+}
+*/
+
