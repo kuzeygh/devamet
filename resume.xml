@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <awards>
+        <element>
+            <awarder>Company</awarder>
+            <date>2014-11-01</date>
+            <summary>There is no spoon.</summary>
+            <title>Award</title>
+        </element>
+    </awards>
+    <basics>
+        <email>john@gmail.com</email>
+        <label>Programmer</label>
+        <location>
+            <address>2712 Broadway St</address>
+            <city>San Francisco</city>
+            <countryCode>US</countryCode>
+            <postalCode>CA 94115</postalCode>
+            <region>California</region>
+        </location>
+        <name>John Doe</name>
+        <phone>(912) 555-4321</phone>
+        <picture />
+        <profiles>
+            <element>
+                <network>Twitter</network>
+                <url>http://twitter.com/john</url>
+                <username>john</username>
+            </element>
+        </profiles>
+        <summary>A summary of John Doe...</summary>
+        <website>http://johndoe.com</website>
+    </basics>
+    <education>
+        <element>
+            <area>Software Development</area>
+            <courses>
+                <element>DB1101 - Basic SQL</element>
+            </courses>
+            <endDate>2013-01-01</endDate>
+            <gpa>4.0</gpa>
+            <institution>University</institution>
+            <startDate>2011-01-01</startDate>
+            <studyType>Bachelor</studyType>
+        </element>
+    </education>
+    <interests>
+        <element>
+            <keywords>
+                <element>Ferrets</element>
+                <element>Unicorns</element>
+            </keywords>
+            <name>Wildlife</name>
+        </element>
+    </interests>
+    <languages>
+        <element>
+            <level>Native speaker</level>
+            <name>English</name>
+        </element>
+    </languages>
+    <publications>
+        <element>
+            <name>Publication</name>
+            <publisher>Company</publisher>
+            <releaseDate>2014-10-01</releaseDate>
+            <summary>Description...</summary>
+            <website>http://publication.com</website>
+        </element>
+    </publications>
+    <references>
+        <element>
+            <name>Jane Doe</name>
+            <reference>Reference...</reference>
+        </element>
+    </references>
+    <skills>
+        <element>
+            <keywords>
+                <element>HTML</element>
+                <element>CSS</element>
+                <element>Javascript</element>
+            </keywords>
+            <level>Master</level>
+            <name>Web Development</name>
+        </element>
+    </skills>
+    <volunteer>
+        <element>
+            <endDate>2013-01-01</endDate>
+            <highlights>
+                <element>Awarded 'Volunteer of the Month'</element>
+            </highlights>
+            <organization>Organization</organization>
+            <position>Volunteer</position>
+            <startDate>2012-01-01</startDate>
+            <summary>Description...</summary>
+            <website>http://organization.com/</website>
+        </element>
+    </volunteer>
+    <work>
+        <element>
+            <company>Company</company>
+            <endDate>2014-01-01</endDate>
+            <highlights>
+                <element>Started the company</element>
+            </highlights>
+            <position>President</position>
+            <startDate>2013-01-01</startDate>
+            <summary>Description...</summary>
+            <website>http://company.com</website>
+        </element>
+    </work>
+</root>

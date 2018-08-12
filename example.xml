@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+    <name>Midori Kocak</name>
+    <label>Software Engineer</label>
+    <email>mtkocak@gmail.com</email>
+    <phone>+420 123 456 789</phone>
+    <summary>A software engineer with 10+ years experience in web development who loves to share her knowledge with people.</summary>
+    <profiles>
+        <profile>
+            <network>Linkedin</network>
+            <url>http://linkedin.com/in/midorikocak</url>
+            <username>midorikocak</username>
+        </profile>
+    </profiles>
+    <education>
+        <school>
+            <area>Software Engineering</area>
+            <endDate>2010-11-01</endDate>
+            <institution>Sabanci University</institution>
+            <startDate>2006-06-01</startDate>
+            <studyType>Computer Science &amp; Engineering</studyType>
+        </school>
+    </education>
+    <languages>
+        <language>
+            <level>Native speaker</level>
+            <name>Turkish</name>
+        </language>
+        <language>
+            <level>Fluent</level>
+            <name>English</name>
+        </language>
+        <language>
+            <level>Fluent</level>
+            <name>Czech</name>
+        </language>
+        <language>
+            <level>Beginner</level>
+            <name>Czech</name>
+        </language>
+        <language>
+            <level>Beginner</level>
+            <name>Japanese</name>
+        </language>
+    </languages>
+    <skills>
+        <skill>
+            <keywords>
+                <element>HTML</element>
+                <element>CSS</element>
+                <element>Javascript</element>
+            </keywords>
+            <level>Master</level>
+            <name>Web Development</name>
+        </skill>
+    </skills>
+</resume>

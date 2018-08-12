@@ -1,0 +1,166 @@
+basics:
+  name: 'Mutlu Koçak'
+  label: 'Software Engineer'
+  picture: ""
+  email: midori@mynameismidori.com
+  phone: '+420775259871'
+  website: ""
+  summary: 'I consider myself as a world citizen, Computer Scientist & Engineer, and php and cakephp Expert. I really like jQuery too. I code PHP and web applications since dial-up years (2001). I like to contribute and create open source software projects. I am always willing to learn new things even though I have 14 years of experience. I also design as a hobby. Other than coding and design, I like music, play guitar and drums, singing in choirs since I was 7. I believe in science and I am a woman who believes in equal opportunity for everyone. So I help women, lgbt people and students free of charge. I am also a Zend Certified PHP Engineer http://www.zend.com/en/yellow-pages/ZEND024677 I contribute to PHP source here is my accepted RFC.https://wiki.php.net/rfc/null_coalesce_equal_operatorhttp://www.mynameismidori.com'
+  location:
+    address: 'Parizska 5, Praha 1 110 00 PragueCzech Republic'
+    postalCode: ""
+    city: ""
+    countryCode: ""
+    region: Prague
+  profiles:
+    -
+      network: 'Midori Kocak'
+      username: ""
+      url: 'http://mtkocak.com'
+work:
+  -
+    company: 'Massive Interactive'
+    position: 'Software Engineer'
+    website: 'http://massive.co'
+    startDate: '2015-9-01'
+    endDate: '2016-9-01'
+    summary: 'Responsibilities- Front End Engineer- Develop​ment of Native plugins for Cordova ApplicationsTechnologies and methodologies used​- Haxe MVC programming for Hybrid apps for multiple devices ranging from Android TV, Iphone to PS4'
+    highlights: []
+  -
+    company: 'ArtInternational Turkey'
+    position: Freelancer
+    website: 'http://artisticprojects-ai.com/'
+    startDate: '2015-6-01'
+    endDate: '2015-9-01'
+    summary: 'ResponsibilitiesFull Stack Software Engineering, CMS developmentTechnologies and methodologies usedPHP, MySQL​, Wordpress, Bootstrap, Foundation'
+    highlights: []
+  -
+    company: Luzdemia
+    position: 'Software Engineer'
+    website: 'http://luzdemia.com'
+    startDate: '2015-2-01'
+    endDate: '2015-6-01'
+    summary: 'ResponsibilitiesServer maintenance of Ecommerce website, Magento development.Technologies and methodologies usedMagento, PHP, MySQL, Apache​'
+    highlights: []
+  -
+    company: 'Seçkin Yayıncılık'
+    position: Author
+    website: 'http://www.seckin.com.tr/kitap/n/921212199/title/projelerle-php-mutlu-kocak.html'
+    startDate: '2014-10-01'
+    endDate: '2014-12-01'
+    summary: 'ResponsibilitiesAuthor of Book "PHP with Projects for Beginners"Technologies and methodologies used​Book about PHP, MySQL, JavaScript, Jquery, Ajax, Html5, Css3, Object Oriented Programming, Content Management Systems, Wordpress, Model View Controller, Design Patterns​, JetBrains PHPStorm, Xampp, Lamp Stackhttp://www.seckin.com.tr/kitap/n/921212199/title/projelerle-php-mutlu-kocak.html'
+    highlights: []
+  -
+    company: Freelancer
+    position: 'Software Engineer'
+    website: 'http://www.mtkocak.com'
+    startDate: '2013-9-01'
+    endDate: '2015-2-01'
+    summary: 'ResponsibilitiesDevelopment of PHP projects such as:http://museistanbul.comhttp://www.petracoffee.com/http://istanbul74.com/http://istanbulartinternational.com/http://spod.org.trhttp://arayuzgaleri.com/http://7milyarinciinsan.comhttp://kocakgold.com/http://deritasarim.org/Technologies and methodologies usedAdobe Photoshop, PHP, MySQL, Wordpress, CakePHP, Ajax, Jquery, Jquery Mobile.​'
+    highlights: []
+  -
+    company: 'Golden & Silver, s.r.o'
+    position: 'IT Manager'
+    website: 'http://www.goldensilver.cz'
+    startDate: '2012-11-01'
+    endDate: '2013-9-01'
+    summary: 'ResponsibilitiesManagement & co-development of Software Projects, IT Infrastructure, virtualisation of existing business apps on Microsoft Azure Platform, leading of creative team.Technologies and methodologies usedMicrosoft Azure, Microsoft Windows Server 2008 R2, Oracle VirtualBox​'
+    highlights: []
+  -
+    company: Promoqube
+    position: 'PHP Developer'
+    website: 'http://www.promoqube.com/'
+    startDate: '2012-4-01'
+    endDate: '2012-6-01'
+    summary: 'ResponsibilitiesDevelopment of Zumbara project based on Symfony framework. Database migration. HTML5 and CSS3 support. JQuery for site elements. http://www.zumbara.comTechnologies and methodologies usedaSymfony 2 Framework, PHP, MySQL, Ajax, Photoshop​'
+    highlights: []
+  -
+    company: Freelance
+    position: Freelancer
+    website: 'http://www.mynameismidori.com'
+    startDate: '2001-1-01'
+    endDate: '2006-9-01'
+    summary: 'Responsibilities- PHP development without OOP- Primitive Customer Relationship Management Systems- Content Management Systems- Building static HTML webistes for little companies.​Technologies and methodologies usedPHP3 and MySQL​'
+    highlights: []
+volunteer: []
+education:
+  -
+    institution: 'Prague College'
+    area: ""
+    studyType: 'BA Graphic Design'
+    startDate: '2015-1-01'
+    endDate: '2015-1-01'
+    gpa: ""
+    courses: []
+  -
+    institution: 'Sabanci University'
+    area: ""
+    studyType: 'Computer Science & Engineering'
+    startDate: '2006-1-01'
+    endDate: '2010-1-01'
+    gpa: ""
+    courses: []
+  -
+    institution: 'Italian Middle & High School of Istanbul'
+    area: ""
+    studyType: ""
+    startDate: '1996-1-01'
+    endDate: '2003-1-01'
+    gpa: ""
+    courses: []
+awards:
+  -
+    title: 'Travel Grant Winner - Craft 2015'
+    date: '2016-4-01'
+    awarder: Google
+    summary: 'Travel Grant Winner'
+  -
+    title: 'Travel Grant Winner - EuroPhyton 2015'
+    date: '2015-7-01'
+    awarder: Google
+    summary: 'Travel Grant Winner'
+publications: []
+skills:
+  -
+    name: PHP
+    level: ""
+    keywords: []
+  -
+    name: MySQL
+    level: ""
+    keywords: []
+  -
+    name: HTML5
+    level: ""
+    keywords: []
+  -
+    name: CSS3
+    level: ""
+    keywords: []
+  -
+    name: jQuery
+    level: ""
+    keywords: []
+  -
+    name: 'Fluent Italian'
+    level: ""
+    keywords: []
+  -
+    name: 'Fluent English'
+    level: ""
+    keywords: []
+  -
+    name: 'Native Turkish'
+    level: ""
+    keywords: []
+  -
+    name: 'Beginner Czech'
+    level: ""
+    keywords: []
+  -
+    name: 'Beginner Japanese'
+    level: ""
+    keywords: []
+languages: []
+interests: []
+references: []
